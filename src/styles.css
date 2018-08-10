@@ -1,0 +1,30 @@
+h1,
+h2,
+h3,
+h4 {
+  font-family: sans-serif;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+.userName {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.date {
+  color: black;
+  font-weight: bold;
+}
+
+.card,
+.embedded {
+  border-color: gray;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 10px;
+}
